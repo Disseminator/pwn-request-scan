@@ -43,6 +43,7 @@ coverage/
 *.pem
 *.secret
 secrets/
+output.txt
 
 # 项目特定忽略
 # 如果有大型测试文件、样本混淆代码等
